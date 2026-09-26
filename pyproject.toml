@@ -16,7 +16,7 @@ dependencies = [
 ]
 
 [project.scripts]
-langchain-tutorial = "langchain_tutorial:main"
+langchain-tutorial = "langchain_tutorial.main:main"
 
 [build-system]
 requires = ["uv_build>=0.12.19,<0.13.0"]
